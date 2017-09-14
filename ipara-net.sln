@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "codevist.iPara.DeveloperPortal.Core", "codevist.iPara.DeveloperPortal.Core\codevist.iPara.DeveloperPortal.Core.csproj", "{6984A015-C4BE-4D26-8C47-C3CD07833D23}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "codevist.iPara.DeveloperPortal.WebSamples", "codevist.iPara.DeveloperPortal.WebSamples\codevist.iPara.DeveloperPortal.WebSamples.csproj", "{4FD5113F-8DB8-4D71-A970-D5B203449972}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6984A015-C4BE-4D26-8C47-C3CD07833D23}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6984A015-C4BE-4D26-8C47-C3CD07833D23}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6984A015-C4BE-4D26-8C47-C3CD07833D23}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6984A015-C4BE-4D26-8C47-C3CD07833D23}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4FD5113F-8DB8-4D71-A970-D5B203449972}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4FD5113F-8DB8-4D71-A970-D5B203449972}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4FD5113F-8DB8-4D71-A970-D5B203449972}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4FD5113F-8DB8-4D71-A970-D5B203449972}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
