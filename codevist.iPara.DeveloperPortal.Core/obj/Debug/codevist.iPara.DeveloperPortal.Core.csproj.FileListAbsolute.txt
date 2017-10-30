@@ -1,7 +1,0 @@
-C:\Projects\codevist.iPara.DeveloperPortal\codevist.iPara.DeveloperPortal.Core\bin\Debug\codevist.iPara.DeveloperPortal.Core.dll
-C:\Projects\codevist.iPara.DeveloperPortal\codevist.iPara.DeveloperPortal.Core\bin\Debug\codevist.iPara.DeveloperPortal.Core.pdb
-C:\Projects\codevist.iPara.DeveloperPortal\codevist.iPara.DeveloperPortal.Core\bin\Debug\Newtonsoft.Json.dll
-C:\Projects\codevist.iPara.DeveloperPortal\codevist.iPara.DeveloperPortal.Core\bin\Debug\Newtonsoft.Json.xml
-C:\Projects\codevist.iPara.DeveloperPortal\codevist.iPara.DeveloperPortal.Core\obj\Debug\codevist.iPara.DeveloperPortal.Core.dll
-C:\Projects\codevist.iPara.DeveloperPortal\codevist.iPara.DeveloperPortal.Core\obj\Debug\codevist.iPara.DeveloperPortal.Core.pdb
-C:\Projects\codevist.iPara.DeveloperPortal\codevist.iPara.DeveloperPortal.Core\obj\Debug\codevist.iPara.DeveloperPortal.Core.csprojResolveAssemblyReference.cache

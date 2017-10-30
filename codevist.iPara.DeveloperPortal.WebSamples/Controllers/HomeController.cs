@@ -22,7 +22,7 @@ namespace codevist.iPara.DeveloperPortal.WebSamples.Controllers
         public ActionResult Index(string nameSurname, string cardNumber, string cvc, string month, string year, string userId, string cardId, string installment)
         {
             //3d iki aşamalı bir işlemdir. 
-            settings.BaseUrl = "https://entegrasyon.ipara.com/3dgate"; // 3D ödemenin ilk adımında adres diğer tüm servislerden farklı olarak başka bir adrese gönderilmelidir. 
+            settings.BaseUrl = "https://www.ipara.com/3dgate"; // 3D ödemenin ilk adımında adres diğer tüm servislerden farklı olarak başka bir adrese gönderilmelidir. 
 
             var request = new ThreeDPaymentInitRequest();
             request.OrderId = Guid.NewGuid().ToString();
