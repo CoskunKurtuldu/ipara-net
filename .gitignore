@@ -3,6 +3,6 @@
 **/bin
 **/obj
 *.suo
-
 */packages
+**/packages
 
