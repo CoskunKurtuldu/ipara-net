@@ -1,0 +1,13 @@
+﻿@using Newtonsoft.Json
+@model IPara.DeveloperPortal.Core.Response.ThreeDPaymentInitResponse
+
+@{
+    ViewBag.Title = "3D ile Ödeme Yapılamadı";
+}
+
+<h2>3D ile Ödeme Başarısız!</h2>
+
+<br />
+<pre>
+    @Html.Raw(JsonConvert.SerializeObject(Model, Formatting.Indented))
+</pre>
